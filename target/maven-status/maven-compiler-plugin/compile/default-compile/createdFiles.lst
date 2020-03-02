@@ -1,2 +1,4 @@
+com\zhileiedu\mysqlSource\SQLSourceHelper.class
+com\zhileiedu\mysqlSource\SQLSource.class
 com\zhileiedu\MyFlumeSource.class
 com\zhileiedu\MyFlumeSink.class
